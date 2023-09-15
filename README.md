@@ -34,7 +34,6 @@ This is a mini Twitter clone project built using the MERN stack (MongoDB, Expres
   - Node.js and Express.js for building the server.
   - MongoDB for the database.
   - JSON Web Tokens (JWT) for authentication.
-# demovideo
-- https://www.loom.com/share/f1840b56d1864f81970fdbf13f575fe3?sid=0b5a7228-8302-4884-ace6-710da71409da 
+# demovideo:- https://www.loom.com/share/f1840b56d1864f81970fdbf13f575fe3?sid=0b5a7228-8302-4884-ace6-710da71409da 
 
 
